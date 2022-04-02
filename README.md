@@ -63,43 +63,53 @@ Github 링크 : https://github.com/deokgu4624/investingqqq
 - 참고자료    
 서비스 링크 : https://investingqqq.netlify.app/    
 Github 링크 : https://github.com/deokgu4624/investingqqq
-### 주식시장 시세 웹 서비스
-- 작업 기간 : 2022. 02 ~ 2022. 03 (3 주)
+### 일기예보 웹 서비스
+- 작업 기간 : 2022. 01 ~ 2022. 02 (2 주)
 - 인력 구성 : FE 1 명
 - 프로젝트 목적 : 개인 프로젝트로 React 사용경험 및 Axios 숙련도 향상을 위해 진행
-- 주요업무 및 상세역할 : 사용자가 주식 시장 뉴스와 시세, 재무 정보를 확인할 수 있는 기능 개발, 서비스 기획부터 프론트엔드 기능 구현까지 전담하여 업무 수행
+- 주요업무 및 상세역할 : 사용자가 현재 날씨 및 기상정보, 주간예보를 확인할 수 있는 일기예보 개발, 서비스 기획부터 프론트엔드 기능 구현까지 전담하여 업무 수행
 - 사용언어 및 개발환경 : JavaScript(ES6), HTML5, CSS3, React, Axios
-- 느낀 점 : 다수의 API 를 관리하는 법과 에러 핸들링을 배우게 됨
+- 느낀 점 : 제한된 기간 내에 프로젝트를 완성할 수 있도록 일정을 관리하는 방법을 깨달음
 - 참고자료    
-서비스 링크 : https://nutrition365.netlify.app/    
-Github 링크 : https://github.com/deokgu4624/nutrition365
-### 주식시장 시세 웹 서비스
+서비스 링크 : https://weather-forecast12.netlify.app/    
+Github 링크 : https://github.com/deokgu4624/weather-forecast
+### 강아지 Mbti 테스트
 - 작업 기간 : 2022. 02 ~ 2022. 03 (3 주)
 - 인력 구성 : FE 1 명
-- 프로젝트 목적 : 개인 프로젝트로 React 사용경험 및 Axios 숙련도 향상을 위해 진행
-- 주요업무 및 상세역할 : 사용자가 주식 시장 뉴스와 시세, 재무 정보를 확인할 수 있는 기능 개발, 서비스 기획부터 프론트엔드 기능 구현까지 전담하여 업무 수행
-- 사용언어 및 개발환경 : JavaScript(ES6), HTML5, CSS3, React, Axios
-- 느낀 점 : 다수의 API 를 관리하는 법과 에러 핸들링을 배우게 됨
+- 프로젝트 목적 : 개인 프로젝트로 React 사용경험 및 Redux 숙련도 향상을 위해 진행
+- 주요업무 및 상세역할 : 사용자가 mbti 를 검사할 수 있는 테스트 개발, 서비스 기획부터 프론트엔드 기능 구현까지 전담하여 업무 수행
+- 사용언어 및 개발환경 : JavaScript(ES6), HTML5, CSS3, React, Redux
+- 느낀 점 : Redux 로 상태관리를 효율적으로 할 수 있게 됨
 - 참고자료    
-서비스 링크 : https://investingqqq.netlify.app/    
-Github 링크 : https://github.com/deokgu4624/investingqqq
-### 주식시장 시세 웹 서비스
-- 작업 기간 : 2022. 02 ~ 2022. 03 (3 주)
+서비스 링크 : https://dog-mbti.netlify.app/    
+Github 링크 : https://github.com/deokgu4624/dog-mbti
+### 코로나 현황 웹 서비스
+- 작업 기간 : 2021. 10 ~ 2022. 11 (3 주)
 - 인력 구성 : FE 1 명
-- 프로젝트 목적 : 개인 프로젝트로 React 사용경험 및 Axios 숙련도 향상을 위해 진행
-- 주요업무 및 상세역할 : 사용자가 주식 시장 뉴스와 시세, 재무 정보를 확인할 수 있는 기능 개발, 서비스 기획부터 프론트엔드 기능 구현까지 전담하여 업무 수행
-- 사용언어 및 개발환경 : JavaScript(ES6), HTML5, CSS3, React, Axios
-- 느낀 점 : 다수의 API 를 관리하는 법과 에러 핸들링을 배우게 됨
+- 프로젝트 목적 : 개인 프로젝트로 React 사용경험 및 API 사용법 학습을 위해 진행
+- 주요업무 및 상세역할 : 사용자가 코로나 현황을 확인 할 수 있는 대시보드 기능 개발, 서비스 기획부터 프론트엔드 기능 구현까지 전담하여 업무 수행
+- 사용언어 및 개발환경 : JavaScript(ES6), HTML5, CSS3, React
+- 느낀 점 : API 데이터를 호출하고 화면에 데이터를 출력하기 위해 데이터를 가공하는 방법을 배움
 - 참고자료    
-서비스 링크 : https://investingqqq.netlify.app/    
-Github 링크 : https://github.com/deokgu4624/investingqqq
-### 주식시장 시세 웹 서비스
-- 작업 기간 : 2022. 02 ~ 2022. 03 (3 주)
+서비스 링크 : https://covid-19-dashboard-custom.netlify.app/kr    
+Github 링크 : https://github.com/deokgu4624/covid-19-dashboard
+### 인터스텔라 소개 웹사이트
+- 작업 기간 : 2021. 8 ~ 2021. 9 (4 주)
 - 인력 구성 : FE 1 명
-- 프로젝트 목적 : 개인 프로젝트로 React 사용경험 및 Axios 숙련도 향상을 위해 진행
-- 주요업무 및 상세역할 : 사용자가 주식 시장 뉴스와 시세, 재무 정보를 확인할 수 있는 기능 개발, 서비스 기획부터 프론트엔드 기능 구현까지 전담하여 업무 수행
-- 사용언어 및 개발환경 : JavaScript(ES6), HTML5, CSS3, React, Axios
-- 느낀 점 : 다수의 API 를 관리하는 법과 에러 핸들링을 배우게 됨
+- 프로젝트 목적 : 개인 프로젝트로 React 사용경험 및 WebGL 학습을 위해 진행
+- 주요업무 및 상세역할 : 인터스텔라에 나오는 가르강튀아를 3d 로 구현해 상호작용 할 수 있는 웹사이트 개발, 서비스 기획부터 프론트엔드 기능 구현까지 전담하여 업무 수행
+- 사용언어 및 개발환경 : JavaScript(ES6), HTML5, CSS3, React, React-Three-Fiber(Three.js)
+- 느낀 점 : React 환경에서 3d 를 구현할 수 있는 방법을 배움
 - 참고자료    
-서비스 링크 : https://investingqqq.netlify.app/    
-Github 링크 : https://github.com/deokgu4624/investingqqq
+서비스 링크 : https://interstellar-webgl.netlify.app/    
+Github 링크 : https://github.com/deokgu4624/interstellar    
+
+## 학력
+- 2018.02 ~ 2020.02 계원예술대학교 디지털미디어디자인 학과 졸업 4.0/4.5 학점
+- 2011.02 ~ 2014.02 광남고등학교 졸업
+
+## 자격증
+- GTQ 1 급
+
+## 수상 내역
+- 2019 졸업전시회 최우수작(C#개발자로 참여)
