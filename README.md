@@ -53,6 +53,9 @@ Address : 서울특별시 광진구 광장동
 - 참고자료    
 서비스 링크 : https://investingqqq.netlify.app/    
 Github 링크 : https://github.com/deokgu4624/investingqqq
+
+![제목 없음](https://user-images.githubusercontent.com/37141223/158133915-31091b72-8cb9-4c2d-8233-386c683c0471.png)
+
 ### 영양 분석 웹 서비스
 - 작업 기간 : 2022. 02 ~ 2022. 02 (3 주)
 - 인력 구성 : FE 1 명
@@ -61,8 +64,11 @@ Github 링크 : https://github.com/deokgu4624/investingqqq
 - 사용언어 및 개발환경 : JavaScript(ES6), HTML5, CSS3, React, Axios
 - 느낀 점 : API 로 받아오는 데이터 배열을 좀 더 능숙하게 다룰 수 있게 됨
 - 참고자료    
-서비스 링크 : https://investingqqq.netlify.app/    
-Github 링크 : https://github.com/deokgu4624/investingqqq
+서비스 링크 : https://nutrition365.netlify.app/    
+Github 링크 : https://github.com/deokgu4624/nutrition365
+
+![제목 없음](https://user-images.githubusercontent.com/37141223/158120740-dc533ba9-7daf-4bde-84dd-043c6b161eb4.png)
+
 ### 일기예보 웹 서비스
 - 작업 기간 : 2022. 01 ~ 2022. 02 (2 주)
 - 인력 구성 : FE 1 명
@@ -73,6 +79,9 @@ Github 링크 : https://github.com/deokgu4624/investingqqq
 - 참고자료    
 서비스 링크 : https://weather-forecast12.netlify.app/    
 Github 링크 : https://github.com/deokgu4624/weather-forecast
+
+![제목 없음](https://user-images.githubusercontent.com/37141223/158065057-78aa1ceb-4f7d-4d0b-b668-e64f632a01dc.png)
+
 ### 강아지 Mbti 테스트
 - 작업 기간 : 2022. 02 ~ 2022. 03 (3 주)
 - 인력 구성 : FE 1 명
@@ -83,6 +92,9 @@ Github 링크 : https://github.com/deokgu4624/weather-forecast
 - 참고자료    
 서비스 링크 : https://dog-mbti.netlify.app/    
 Github 링크 : https://github.com/deokgu4624/dog-mbti
+
+![제목 없음](https://user-images.githubusercontent.com/37141223/146825400-9f63bc72-e00a-421a-ae33-5781c25f939b.png)
+
 ### 코로나 현황 웹 서비스
 - 작업 기간 : 2021. 10 ~ 2022. 11 (3 주)
 - 인력 구성 : FE 1 명
@@ -93,6 +105,9 @@ Github 링크 : https://github.com/deokgu4624/dog-mbti
 - 참고자료    
 서비스 링크 : https://covid-19-dashboard-custom.netlify.app/kr    
 Github 링크 : https://github.com/deokgu4624/covid-19-dashboard
+
+![제목 없음](https://user-images.githubusercontent.com/37141223/147278046-f695d191-5496-4217-9764-418e2cd45156.png)
+
 ### 인터스텔라 소개 웹사이트
 - 작업 기간 : 2021. 8 ~ 2021. 9 (4 주)
 - 인력 구성 : FE 1 명
@@ -103,6 +118,8 @@ Github 링크 : https://github.com/deokgu4624/covid-19-dashboard
 - 참고자료    
 서비스 링크 : https://interstellar-webgl.netlify.app/    
 Github 링크 : https://github.com/deokgu4624/interstellar    
+
+![제목 없음](https://user-images.githubusercontent.com/37141223/146590606-14c217b9-d8a3-4526-9a1c-6dc0a33d2a55.png)
 
 ## 학력
 - 2018.02 ~ 2020.02 계원예술대학교 디지털미디어디자인 학과 졸업 4.0/4.5 학점
