@@ -9,6 +9,7 @@ Address : 서울특별시 광진구 광장동
 - 호기심과 도전 의식이 강해 React 및 라이브러리로 개발을 해보기 위해 다양성을 넓히는 개발자
 - UX 등 다양한 부문과의 원활한 커뮤니케이션이 가능한 개발자
 - 업무에 대한 책임감으로 완성도 있는 결과물을 만들고자 노력하는 개발자
+Notion 링크 : https://hyunwoo-nam.notion.site/hyunwoo-nam/1c37da765b5a470dadc79c07467bb7b3
 
 ## 기술스택/Skill Set
 ### 기능 구현 등의 사용 경험이 있는 Skill Set
